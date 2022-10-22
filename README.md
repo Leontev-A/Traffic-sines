@@ -1,2 +1,2 @@
-# Traffic-sines
+# Traffic-singes
 Классификация дорожных знаков
